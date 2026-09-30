@@ -24,7 +24,7 @@ Investigate Linux system activity,network behavior,web activity,security logs to
 - Python HTTP Server
 - Forage Web Activity Log
 ## Project Workflow
-Linux & Networking -> Web SErver -> Troubleshooting -> Log Analysis -> Investigation -> Python Automation -> Incident Report
+Linux & Networking -> Web Server -> Troubleshooting -> Log Analysis -> Investigation -> Python Automation -> Incident Report
 ## Key Finding
 IP address '192.168.0.101' generated 70 '401 Unauthorized' responses during repeated requests to factory machine-ststus APIs.
 Further Investigation showed re-authenticaion followed by '200 Success' respones.
